@@ -7,6 +7,7 @@ Hospital Management Project done in 3rd year 1st Term
   <li> html </li>
   <li> css (bootstrap) </li>
   <li> javascript </li>
+  <li> MySql </li>
 </ul>
 
 ## Features
