@@ -1,0 +1,115 @@
+
+.navbar> a {
+  font-size:250%;
+}
+.left {
+    font-size: 120%;
+}
+.right img{
+  float: right;
+  border-radius: 8px;
+}
+.section {
+  border: 1px solid blue;
+  display: inline-block;
+  padding: 0px 16px;
+  padding-bottom: 16px;
+  background-color:#000000;
+  color: white;
+  border-radius: 8px;
+  margin-bottom: 16px;
+
+}
+.form-group label {
+  text-align:left;
+}
+#ajax a:hover {
+  cursor: pointer;
+  background-color: yellow;
+}
+
+.navbar2> a {
+  font-size:250%;
+}
+.left {
+    font-size: 120%;
+}
+.right img{
+  float: right;
+  border-radius: 8px;
+}
+.section2 {
+  border: 1px solid blue;
+  display: inline-block;
+  padding: 0px 16px;
+  padding-bottom: 16px;
+  background-color:#000000;
+  color: white;
+  border-radius: 8px;
+  margin-bottom: 16px;
+
+}
+.navigation label {
+  text-align:left;
+}
+#inner-line a:hover {
+  cursor: pointer;
+  background-color: yellow;
+}
+
+.navbar2> a {
+  font-size:250%;
+}
+.left-bar {
+    font-size: 120%;
+}
+.right-bar img{
+  float: right;
+  border-radius: 8px;
+}
+.section3 {
+  border: 1px solid blue;
+  display: inline-block;
+  padding: 0px 16px;
+  padding-bottom: 16px;
+  background-color:#000000;
+  color: white;
+  border-radius: 8px;
+  margin-bottom: 16px;
+
+}
+.form-group label {
+  text-align:left;
+}
+#footnote a:hover {
+  cursor: pointer;
+  background-color: yellow;
+}
+.navbar> a {
+  font-size:250%;
+}
+.left {
+    font-size: 120%;
+}
+.right img{
+  float: right;
+  border-radius: 8px;
+}
+.section {
+  border: 1px solid blue;
+  display: inline-block;
+  padding: 0px 16px;
+  padding-bottom: 16px;
+  background-color:#000000;
+  color: white;
+  border-radius: 8px;
+  margin-bottom: 16px;
+
+}
+.form-group label {
+  text-align:left;
+}
+#ajax a:hover {
+  cursor: pointer;
+  background-color: yellow;
+}
